@@ -36,11 +36,11 @@ export default function SignInPage() {
 
         {/* Terms */}
         <p className="text-xs text-gray-500">
-          By signing in, you agree to our{" "}
+          By signing in, you agree to our
           <a href="#" className="text-blue-600 hover:underline">
             Terms of Service
-          </a>{" "}
-          and{" "}
+          </a>
+          and
           <a href="#" className="text-blue-600 hover:underline">
             Privacy Policy
           </a>
